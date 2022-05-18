@@ -1,6 +1,6 @@
 # Kyle Kovalchick
-## 🌱 I’m currently learning C# and Unity
-## 🔭 I’m currently working on a private game project with a team of individuals.  
+**🌱 I’m currently learning C# and Unity**
+**🔭 I’m currently working on a private game project with a team of individuals**
 
 I am a passionate programmer with a drive to learn new skills. I have the most experience with java, but also have other languages such as C#, C, and JS. I have been programing since I was in middle school. Programing was something that I had picked up because I wanted to mod the games I play. 
 
