@@ -2,10 +2,36 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7B169&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+there+welcome+to+my+Github%F0%9F%91%8B!;My+name+is+Kyle+Kovalchick...;Nice+to+meet+you!">
 </h1>
 
+
+
 <h2 align="center"> :computer: Skills :computer:</h2>
+<br>
 <p align="center">
-    <img width=100 src="icons/jetbrains/jetbrains-original.svg"/>
+  
+  <a href="https://www.java.com/en/">
+    <img width=50 src="icons/java/java-original.svg"/>
+  </a>
+  <a href="https://gradle.org/">
+    <img width=50 src="icons/gradle/gradle-plain.svg"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img width=70 src="icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img width=50 src="icons/csharp/csharp-original.svg"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
+    <img width=50 src="icons/cplusplus/cplusplus-original.svg"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
+    <img width=50 src="icons/c/c-original.svg"/>
+  </a>
+  <a href="https://www.jetbrains.com/">
+    <img width=50 src="icons/jetbrains/jetbrains-original.svg"/>
+  </a>
 </p>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
