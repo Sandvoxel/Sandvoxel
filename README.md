@@ -134,7 +134,7 @@
 
 <h3 align="center">:books: Other :books:</h3>
   <p align="center">
-    <a href="https://ubuntu.com/">
+    <a href="https://unity.com/">
     <img width=50 src="icons/unity/unity-original.svg"/>
   </a>
   <a href="https://spring.io/">
