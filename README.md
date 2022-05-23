@@ -1,7 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7B169&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+there+welcome+to+my+Github%F0%9F%91%8B!;My+name+is+Kyle+Kovalchick...;Nice+to+meet+you!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7B169&center=true&vCenter=true&width=700&height=80&lines=Hello%2C+there+welcome+to+my+Github%F0%9F%91%8B!;My+name+is+Kyle+Kovalchick...;Nice+to+meet+you!">
 </p>
 
+
+<p align="center">
+  Welcome to my profile! My name is Kyle Kovalchick and I am a Full Stack / Backend / Imbedded Systems software developer.<br>
+  <ul>
+    <li>:milky_way: I have a passion for rocketry and all thing space. :milky_way:</li>
+    <li>:construction: WIP :construction:</li>
+  </ul>
+ 
+  
+</p>
 <p align="center">
   <code>
     <a href="https://www.linkedin.com/in/kyle-kovalchick">
