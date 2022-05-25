@@ -4,11 +4,7 @@
 
 
 <p align="center">
-  Welcome to my profile! My name is Kyle Kovalchick and I am a Full Stack / Backend / Imbedded Systems software developer.<br>
-  <ul>
-    <li>:milky_way: I have a passion for rocketry and all thing space. :milky_way:</li>
-    <li>:construction: WIP :construction:</li>
-  </ul>
+  Welcome to my profile! My name is Kyle Kovalchick and I am a Full Stack / Backend / Imbedded Systems software developer. I have a passion for space travel :rocket: and companies like SpaceX and Electron. Building a integrated circuits is a hobby of mine such as flight computers for hobby rockets.
  
   
 </p>
