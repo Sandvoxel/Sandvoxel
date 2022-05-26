@@ -4,7 +4,16 @@
 
 
 <p align="center">
-  Welcome to my profile! My name is Kyle Kovalchick and I am a Full Stack / Backend / Imbedded Systems software developer. I have a passion for space travel :rocket: and companies like SpaceX and Electron. Building a integrated circuits is a hobby of mine such as flight computers for hobby rockets.
+  Welcome to my profile! My name is Kyle Kovalchick and I am a Full Stack / Backend / Imbedded Systems software developer. I have a passion for space travel :rocket: and companies like SpaceX and Electron. I enjoy building integrated circuits in my free time for model rocket hobby.
+
+  <ul>
+    <li>🔭 Currently working on a flight computer for personal use</li>
+    <li>👯 I’m looking to collaborate on anything!</li>
+    <li>😄 Pronouns: He/Him</li>
+    <li>⚡ Fun fact: I have a coin that has flown in space.</li>
+  </ul>
+
+
  
   
 </p>
