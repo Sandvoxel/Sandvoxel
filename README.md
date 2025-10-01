@@ -78,9 +78,7 @@
 
 ---
 
-### 📈 GitHub Stats (optional—collapse if you prefer clean)
-<details>
-  <summary>Show activity cards</summary>
+### 📈 GitHub Stats 
   <br/>
   <p align="center">
     <a href="https://github.com/Sandvoxel/github-readme-streak-stats" title="Streak">
@@ -95,7 +93,6 @@
       <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandvoxel&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Langs"/>
     </a>
   </p>
-</details>
 
 ---
 
